@@ -35,5 +35,3 @@ Badges & Cards:
 
 ![Repos Badge](https://img.shields.io/badge/Repos-13-blue)
 ![Followers Badge](https://img.shields.io/badge/Followers-0-lightgrey)
-
-(If you prefer a different theme for the cards or additional badges like contribution streaks, they can be swapped in.)
